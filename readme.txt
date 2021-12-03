@@ -24,13 +24,13 @@ For any questions - Please email me at DevOps@RajeshKumar.gxyz/
 ===============ARTIFACTORY=================
 <distributionManagement>
 	<repository>
-		<id>rajesh</id>
+		<id>keerthana</id>
 		<name>Internal Releases</name>
 		<url>http://13.127.94.210:8081/artifactory/list/rajesh-release/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>rajesh</id>
+		<id>keerthana</id>
 		<name>Internal Releases</name>
 		<url>http://13.127.94.210:8081/artifactory/list/rajesh-snapshot/</url>
 	</snapshotRepository>
@@ -39,7 +39,7 @@ For any questions - Please email me at DevOps@RajeshKumar.gxyz/
 
 =====================SETTING.XML=================================
    <server>
-		<id>rajesh</id>
+		<id>keerthana</id>
 		<username>rajesh-user</username>
 		<password>rajesh-user123</password>
 </server>
